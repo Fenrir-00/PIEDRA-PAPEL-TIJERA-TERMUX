@@ -1,4 +1,4 @@
-# PIEDRA-PAPEL-TIJERA-TERMUX
+![Screenshot](piedra.png)
 instalacion
 * apt update && apt upgrade -y
 * apt install git -y
